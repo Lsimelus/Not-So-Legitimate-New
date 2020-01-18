@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Database
+comment0.text=\n\ Calls\ the\ methods\ required\ for\ function\ to\ run\n\n\ @author\ Lyndbergh\ Simelus\n\ @version\ 9/14/2019\n
+comment1.params=info
+comment1.target=Event\ Maker(Event)
+comment1.text=\n\ Takes\ in\ an\ event\ and\ make\ sure\ none\ events\ repeat\n\ This\ is\ where\ the\ low-order\ markov\ chain\ happens\n\n\ @param\ Old\ event\n\ @return\ New\ event\n
+comment2.params=fullList\ previousSelection
+comment2.target=java.lang.String\ getNewAndRandom(java.util.ArrayList,\ java.lang.String)
+comment2.text=\n\ Get\ new\ event\ that\ is\ not\ the\ same\ as\ the\ previous\ event\n\n\ @param\ List\ of\ all\ possible\ new\ values\ of\ event\ feature,String\ of\ old\ event\ feature\n\ @return\ Get\ new\ random\ variable\ that\ is\ not\ the\ same\ as\ the\ one\ passed\ in\n
+comment3.params=
+comment3.target=void\ Scrape()
+comment3.text=\n\ Parse\ the\ text\ file\ and\ put\ the\ information\ into\ ArrayList\n\n\ @param\ None\n\ @return\ None\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\n\ Event\ Structure\n\ It\ holds\ string\ values\ of\ event\n\n\ @author\ Lyndbergh\ Simelus\n\ @version\ 9/14/2019\n
+comment1.params=PersonA\ PersonB\ Topic\ Location\ Relationship\ Reaction\ Quote
+comment1.target=Event(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ \n\ Constructor\ of\ Event\ Object\n\ \n\ @param\ String\ of\ the\ two\ famous\ people,String\ of\ topic,\ String\ of\ location\n\ String\ of\ the\ relationship\ between\ the\ two\ people,\n\ String\ of\ the\ second\ persons\ reaction\n\ String\ of\ the\ first\ persons\ original\ quote\n\ \n\ @return\ None\n
+comment2.params=
+comment2.target=java.lang.String[]\ getInfo()
+comment2.text=\n\ Gets\ all\ of\ the\ information\ of\ String\ in\ list\n\ \n\ @param\ None\n\ @return\ List\ of\ event\ features\n
+numComments=3

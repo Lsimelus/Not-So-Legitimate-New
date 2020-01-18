@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\n\ Calls\ the\ methods\ required\ for\ function\ to\ run\n\n\ @author\ Lyndbergh\ Simelus\n\ @version\ 9/14/2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method\n\ Calls\ of\ the\ function\ to\ make\ the\ program\ run\n\n\ @param\ None\n\ @return\ \ \ \ None\n
+numComments=2

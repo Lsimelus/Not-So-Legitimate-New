@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Report
+comment0.text=\n\ Generates\ text\ and\ visuals\ for\ the\ event\ that\ is\ recieved\n\ The\ text\ and\ image\ is\ based\ on\ the\ contents\ of\ the\ event\n\n\ @\ Lyndbergh\ Simelus\n\ @\ 9/14/2019\n
+comment1.params=news
+comment1.target=Report(Event)
+comment1.text=\n\ Constructor\ for\ report\n\n\ @param\ The\ one\ event\ being\ reported\n\ @return\ \ \ \ None\n
+comment2.params=
+comment2.target=java.lang.String\ Dialogue()
+comment2.text=\n\ Generate\ text\ out\ put\ with\ event\ description\n\n\ @param\ None\n\ @return\ String\ of\ designed\ text\n
+comment3.params=
+comment3.target=void\ Display()
+comment3.text=\n\ Create\ visual\ images\ based\ of\ event\ info,\ using\ JFrame\n\n\ @param\ None\n\ @return\ \ \ \ None\n
+numComments=4
